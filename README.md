@@ -1,5 +1,6 @@
 # DevOps Networking: Harbor Registry qua Tunnel AWS–Azure
 
+Harbor Registry: registry.zett.site
 ## 🎯 Mục tiêu dự án
 - Triển khai **Harbor Container Registry** trong Azure VM **không có IPv4 public**.
 - Sử dụng **AWS EC2** như một **jump host + reverse proxy**:
